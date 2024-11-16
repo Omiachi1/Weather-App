@@ -14,11 +14,11 @@ body {
     width: 85%;
     background: linear-gradient(135deg, #00feba, #5b548a);
     color: #fff;
-    margin: auto;
+    margin: 30px auto;
     padding: 80px 50px;
     border-radius: 20px;
     text-align: center;
-    height: 125vh;
+    height: 135vh;
 
 }
 
